@@ -1,0 +1,40 @@
+{
+  "name": "kinakoneko",
+  "version": "1.0.1",
+  "description": "An Anime/Hentai Image API which simplifies how you fetch random images for you! Reliable, and very pleasure friendly!",
+  "main": "fubuki.js",
+  "types": "./typings/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/KazeDevID/kinako.git"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "keywords": [
+    "nsfw",
+    "hentai",
+    "anime",
+    "images",
+    "wallpaper",
+    "discord",
+    "neko",
+    "cute",
+    "as",
+    "fubuki",
+    "api"
+  ],
+  "author": "KazeDevID",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/KazeDevID/kinako/issues"
+  },
+  "homepage": "https://gitlab.com/KazeDevID/kinako#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
