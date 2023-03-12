@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "npm i && node .",
     "test2": "node server.cjs"
   },
   "keywords": [
@@ -64,7 +64,7 @@
     "hxz-api": "^1.0.1",
     "jimp": "^0.16.2",
     "jsdom": "^20.0.1",
-    "kinakoneko": "^1.0.1",
+    "kinakoneko": "^1.0.2",
     "lodash": "^4.17.21",
     "lowdb": "^3.0.0",
     "moment-timezone": "^0.5.38",
